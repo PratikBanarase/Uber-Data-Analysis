@@ -15,30 +15,6 @@ Analyze Uber ride data to identify peak hours, trends, and fare patterns.
 - Fare distribution visualized
 
 ## 📁 Dataset
-(Add dataset link here)
-
-## ▶️ How to Run
-1. Install requirements
-2. Run notebook or script
-
-## 📷 Screenshots
-# 🚗 Uber Ride Data Analysis
-
-## 📌 Objective
-Analyze Uber ride data to identify peak hours, trends, and fare patterns.
-
-## 🛠 Tools Used
-- Python
-- Pandas
-- Seaborn
-- Matplotlib
-
-## 📊 Key Insights
-- Peak ride hours identified
-- Most active days analyzed
-- Fare distribution visualized
-
-## 📁 Dataset
 https://www.kaggle.com/datasets/rohiteng/uber-trips-dataset/data?utm_source=chatgpt.com&select=uber_trips_dataset_50k.csv
 
 ## ▶️ How to Run
